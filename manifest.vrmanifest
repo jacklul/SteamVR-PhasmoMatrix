@@ -1,0 +1,16 @@
+{
+	"source" : "builtin",
+	"applications": [{
+		"app_key": "jacklul.SteamVR-PhasmoMatrix",
+		"launch_type": "binary",
+		"binary_path_windows": "SteamVR-PhasmoMatrix.exe",
+		"is_dashboard_overlay": true,
+
+		"strings": {
+			"en_us": {
+				"name": "Phasmophobia Matrix Overlay",
+				"description": "Phasmophobia Matrix inside SteamVR Webkit Application"
+			}
+		}
+	}]
+}
